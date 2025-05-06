@@ -1,0 +1,59 @@
+body{
+    background-color:#2B303A;
+}
+
+.body-container{
+	 background-image: linear-gradient(to right, #77567A, #C47AC0);
+    padding: 50px;
+    margin-top:100px;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    font-family:heiti sc;
+    color:white;
+     border:5px solid #283845;
+}
+
+.card{
+  margin-top:50px;
+  margin-bottom:50px;
+  background-image:linear-gradient(to right, #DEBAC0, #E39EC1);
+  border:5px solid #283845;
+  padding:15px;
+  text-align:center;
+
+}
+
+.card-body{
+    font-family:heiti sc;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.footer {
+    font-family: courier;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, .6);
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 4%;
+}
+
+
+
+label{
+    color:white;
+    margin-top:20px;
+}
+
+h1{
+    font-family: courier;
+    text-align:center;
+}
+
+details{
+    text-align:center;
+}
+
+
